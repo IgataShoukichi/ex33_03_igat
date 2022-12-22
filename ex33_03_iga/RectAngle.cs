@@ -86,10 +86,6 @@ namespace EX33
                 {
                     num = i;
                 }
-                else
-                {
-                    num = 0;
-                }
             }
             return pattern[num];
         }
